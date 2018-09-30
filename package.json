@@ -1,0 +1,25 @@
+{
+  "name": "reddit-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonyCioara/reddit-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TonyCioara/reddit-clone/issues"
+  },
+  "homepage": "https://github.com/TonyCioara/reddit-clone#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.12",
+    "nodemon": "^1.18.4"
+  }
+}
